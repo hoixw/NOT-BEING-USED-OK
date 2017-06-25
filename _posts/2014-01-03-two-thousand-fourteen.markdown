@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Two Thousand Fourteen"
-date:   2014-01-03 18:52:21
-categories: jekyll update
+title:  "Welcome to my Blog"
+date:   2017-06-25 18:46:21
+categories: Miscellaneous
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Well this is essentially a test post, for my blog, checking everything works and all.
+
+I HOPE THIS WORKS I SACRIFICED HISTORY REVISION FOR THIS.
